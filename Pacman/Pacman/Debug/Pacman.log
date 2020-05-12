@@ -1,0 +1,40 @@
+﻿  Pacman.cpp
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(33,37): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(33,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(52,37): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(52,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(66,37): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(66,22): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(166,17): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(166,20): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(174,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(173,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(187,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(186,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(200,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(199,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(210,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(209,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(220,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(219,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(230,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(229,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(240,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(239,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(250,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(249,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(382,32): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(381,10): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(1573,30): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(3459,39): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(3463,39): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(3467,39): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(3471,39): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(3236,20): warning C4101: "los": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(2828,9): warning C4101: "plansza2": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(3431,17): warning C4101: "los_x": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(3431,24): warning C4101: "los_y": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(4055,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(4053,18): warning C4101: "ruch": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\source\repos\Pacman\Pacman\Pacman.cpp(4051,10): warning C4101: "key": lokalna zmienna, do której nie istnieje odwołanie
+  Pacman.vcxproj -> C:\Users\mbart\source\repos\Pacman\Debug\Pacman.exe
